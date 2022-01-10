@@ -7,7 +7,7 @@ npm install
 
 ### Mingle Configuration
 ```
-Before compiling an application, configure Mingle according to your environment in the App.js file.
+Before compiling an application, configure Mingle according to your environment in the HelloWorld.vue file.
 
 Set the config.app_identifier constant with your app id value.
 
